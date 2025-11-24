@@ -6,7 +6,4 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have made 200% this year in the market 
 
-<!---
-HHughes140/HHughes140 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
